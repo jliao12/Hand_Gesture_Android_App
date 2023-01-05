@@ -7,3 +7,5 @@ The first part required to use the Android Studio to develop a mobile applicatio
 
 ## Part 2
 The second part of the project is about gesture recognition through Convolutional neural network (CNN) deep learning algorithm via python platform. The 51 videos that recorded from part 1 will be used as the training videos and the base codes that can do frame extraction and feature extraction are provided. The CNN model that was built by recognizing alphabets is also provided. After training the model with the video, the provided test video will be used to validate to check the accuracy rate of the gesture recognition.
+## Application
+The first part is an Android application, please download the whole file and open with Android Studio. The second part is based on Python, the folder has sample video and cut frame, you may use your own video and frames. For detailed explanation, please refer to the 535_portfolio.pdf for additional information.
